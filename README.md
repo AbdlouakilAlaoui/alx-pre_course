@@ -1,2 +1,1 @@
-MY first readme
-cd ..
+my first readme
